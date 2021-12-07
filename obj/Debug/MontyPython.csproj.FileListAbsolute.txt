@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\MontyPython\bin\Debug\MontyPython.exe.config
+C:\Users\Nolan Pawelski\Desktop\MontyPython\bin\Debug\MontyPython.exe
+C:\Users\Nolan Pawelski\Desktop\MontyPython\bin\Debug\MontyPython.pdb
+C:\Users\Nolan Pawelski\Desktop\MontyPython\obj\Debug\MontyPython.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\MontyPython\obj\Debug\MontyPython.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\MontyPython\obj\Debug\MontyPython.exe
+C:\Users\Nolan Pawelski\Desktop\MontyPython\obj\Debug\MontyPython.pdb
